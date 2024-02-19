@@ -31,7 +31,7 @@ Administrators and moderators have access to robust tools to manage and moderate
 Installation
 To set up Codiscuss on your server, follow these simple steps:
 
-Clone the repository: git clone https://github.com/Kumaraniketank/codiscuss.git
+Clone the repository: git clone https://github.com/Kumaraniketank/PhpProject.git
 Configure your database settings in the config.php file.
 Run the database migrations to set up the required tables: php artisan migrate
 Customize the application settings to suit your preferences.
